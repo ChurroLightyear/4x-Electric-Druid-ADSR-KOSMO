@@ -10,3 +10,5 @@ The LEDs are connected directly to the output so there may be some voltage drop 
 This module is untested the stripboard layout works
 
 All components are pretty standard stuff you can get from Tayda except the 4 env gen ICs Didn't throw together a proper BOM but it's all labeled on the boards
+
+The files for the PCBs are all layed out in Kicad
