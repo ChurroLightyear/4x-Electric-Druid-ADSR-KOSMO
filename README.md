@@ -12,3 +12,7 @@ This module is untested the stripboard layout works
 All components are pretty standard stuff you can get from Tayda except the 4 env gen ICs Didn't throw together a proper BOM but it's all labeled on the boards
 
 The files for the PCBs are all layed out in Kicad
+
+
+UPDATE circuit has been verified and tested but there is a single missing trace for envelope 3
+Between R27 and R49 be sure to a trace or jumper between those Reuploading the fixed board
