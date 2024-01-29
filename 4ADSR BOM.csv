@@ -1,0 +1,28 @@
+Reference(s),Value,Vendor
+"C1, C2, C3, C4, C5, C6, C7, C13, C14, C15, C16, C17, C18",100n Ceramic,Tayda
+"C8, C9, c10",10uf Elec,Tayda
+"C11, C12",10n Film,Tayda
+C19,100n Film,Tayda
+"D1, D4, D5, D6",1N4148,Tayda
+"D2, D3",1N5817,Tayda
+POWER,10 Pin Box Header,Tayda
+BOARD CONNECT,10 Pin Box Header,Tayda
+LED’s 1-4,5mm LED,Tayda
+Jacks 1-16,Neutrik Stereo Jacks,Tayda
+"Q1, Q2, Q3, Q4",2N3904,Tayda
+"R1, R2, R9, R10, R16, R17, R23, R24, R25, R26",10k,Tayda
+"R3, R4, R5, R6, R7, R8",1k,Tayda
+"R11, R12, R14, R19, R20, R21, R29, R30, R31, R32, R33, R34",100k,Tayda
+"R13, R18, R27, R28",47k,Tayda
+"R15, R22, R35, R36",2K,Tayda
+"U1, U2, U3, U4",ENV GEN 8C,Electric Druid
+"U5, U6",TL074,Tayda
+U7,LM7809,Tayda
+,,
+CONTROL BOARD,,
+"RV1, RV2, RV3, RV4, RV5, RV6",B100k 9mm A-1848,Tayda
+"R1, R2, 39, R4, R5, R6",1k,Tayda
+"R7, R8",10k,Tayda
+"C1, C2, C3, C4, C5, C6",100nf Ceramic,Tayda
+SW1,SPDT ON-OFF-ON,Tayda
+J1,10 Pin Box Header,Tayda
