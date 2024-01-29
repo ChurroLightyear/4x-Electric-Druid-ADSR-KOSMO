@@ -16,4 +16,6 @@ The files for the PCBs are all layed out in Kicad
 
 UPDATE circuit has been verified and tested but there is a single missing trace for envelope 3
 Between R27 and R49 be sure to a trace or jumper between those Reuploading the fixed board
+
+
 ![Screenshot 2024-01-28 200758](https://github.com/ChurroLightyear/4x-Electric-Druid-ADSR-KOSMO/assets/545014/242cc3ee-8498-4798-bc47-4077bf43ada8)
