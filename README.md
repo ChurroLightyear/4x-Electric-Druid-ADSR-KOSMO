@@ -9,8 +9,6 @@ There's also holes on the panel that fit the Tayda stripboard mounting holes.
 The LEDs are connected directly to the output so there may be some voltage drop but I've not noticed anything on the stripboard version
 This module is untested the stripboard layout works
 
-All components are pretty standard stuff you can get from Tayda except the 4 env gen ICs Didn't throw together a proper BOM but it's all labeled on the boards
-
 The files for the PCBs are all layed out in Kicad
 
 
@@ -18,6 +16,7 @@ UPDATE circuit has been verified and tested but there is a single missing trace 
 Between R27 and R49 be sure to a trace or jumper between those Reuploading the fixed board
 
 The files on github have been updated with the missing trace, Everything should work as expected.
+Added a BOM for both boards***
 
 
 ![Screenshot 2024-01-28 200758](https://github.com/ChurroLightyear/4x-Electric-Druid-ADSR-KOSMO/assets/545014/242cc3ee-8498-4798-bc47-4077bf43ada8)
